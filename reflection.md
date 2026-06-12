@@ -32,8 +32,9 @@ Document at least 3 bugs you found. Add rows as needed.
 
 ## 3. Debugging and testing your fixes
 
-- How did you decide whether a bug was really fixed? if it functioned in the intended way 
+- How did you decide whether a bug was really fixed? 
 - Describe at least one test you ran (manual or using pytest)  
+if it functioned in the intended way 
   and what it showed you about your code. I did manual testing where I switched the difficulty modes, I entered numbers lower and higher than the secret number. It honestly just showed me not to blindly trust AI when coding/completing projects. 
 - Did AI help you design or understand any tests? How? no 
 

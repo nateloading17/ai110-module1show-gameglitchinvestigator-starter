@@ -18,6 +18,7 @@ Document at least 3 bugs you found. Add rows as needed.
 |started a new game  | ability to play |not able to play  |generated a new secret, attempts is 0, score is 70, history of my previous attempt is there. Issue comes when I enter the secret number into the answer field the game tells me i already won and need to generate a new game. it also stopped generating this message after a while. now anytime i start a new game and enter a number the game doesn't process my input.  |
 |guess of 54 |wrong , go higher  |wrong, go lower  |go lower |
 |change dfficulty | suggest and accept numbers within difficulty range | number range remains the same |
+| attempt | history count of 1 | history count of  | |
 
 ---
 
